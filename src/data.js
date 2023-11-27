@@ -13,9 +13,9 @@ export const featuredPortfolio = [
   },
   {
     id: 3,
-    title: "E-commerce Web Design",
+    title: "E-commerce Web s",
     img:
-      "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+      "https://i.imgur.com/MVTsBNz.png",
   },
   {
     id: 4,
@@ -51,7 +51,7 @@ export const webPortfolio = [
   {
     id: 3,
     title: "Web E-commerce Design",
-    img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
+    img: "https://i.imgur.com/MVTsBNz.png",
   },
   {
     id: 4,
